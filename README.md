@@ -1,5 +1,5 @@
-## Hi there 👋
-  I'M CHAND ~
+## Hi  👋,  I'M CHAND ~
+ 
 
 - 🎓 Studying Information Technology at  Gayatri Vidya Parishad College of Engineering (Autonomous)
 - 🌱 I’m currently learning Artificial intelligence (AI)   
