@@ -1,39 +1,84 @@
-## Hi  👋,  I'M CHAND ~
- 
+# Hi there! 👋 I'm Chand
 
-- 🎓 Studying Information Technology at  Gayatri Vidya Parishad College of Engineering (Autonomous)
-- 🌱 I’m currently learning Artificial intelligence (AI)   
-- 💼 Already Completed Intern At PARTAP PHARMACY 
-- 📫 How to reach me: spal84453@gmai.com
-- 😄 I Keep Regular Updates On My [Youtube Channel](https://www.youtube.com/@princechand1612)<br/>
-- ⚡ Fun fact: Continuous Persevering  
--->
+## 🎓 About Me
+I'm a passionate Information Technology student at Gayatri Vidya Parishad College of Engineering, with a burning curiosity for **Artificial Intelligence** and cutting-edge technology.
 
-  
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prince_chand_123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chand.) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pc6907) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)
+## 🚀 Professional Snapshot
+- 💼 **Internship Experience**: Completed internship at PARTAP PHARMACY
+- 🌱 **Currently Exploring**: Deep Dive into Artificial Intelligence
+- 📚 **Academic Focus**: Information Technology at GVPCE(A)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-# 📊 GitHub Stats:
+# My Stats ...
 
-![](https://github-readme-stats.vercel.app/api?username=chand6907&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chand6907&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chand6907&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## My Github Stats
+| Metric | Value |
+|--------|-------|
+| Total Stars Earned: | 28 |
+| Total Commits (2025): | 203 |
+| Merged PRs Percentage: | 78.57% |
+| Total PRs Reviewed: | 0 |
+| Contributed to (last year): | 12 |
 
+## Most Used Languages
+![Languages Pie Chart](https://via.placeholder.com/350x350.png?text=Languages+Pie+Chart)
+- 🔴 HTML: 67.95%
+- 🟠 Jupyter Notebook: 14.60%
+- 🟣 CSS: 6.56%
+- 🟡 JavaScript: 5.93%
+- 🔵 Python: 4.96%
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chand6907&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## My Stack ...
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Languages
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chand6907&limit=5&theme=radical&combine_all_yearly_contributions=true)
+### Technologies
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+![Codespaces](https://img.shields.io/badge/-Codespaces-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+### Frameworks
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white)
+
+### Databases
+![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat-square&logo=sqlite)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+
+### Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chand6907&theme=ocean_dark&hide_border=true)
+
+### Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chand6907&theme=ocean_dark&layout=compact&hide_border=true)
+
+## 🏆 Achievements
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chand6907&theme=darkhub&no-frame=true&row=1&column=7)
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/chand.)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/prince_chand_123)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@princechand1612)
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/pc6907)
+
+## 📬 Contact
+✉️ **Email**: [spal84453@gmail.com](mailto:spal84453@gmail.com)
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chand6907&icon=0&color=12)](https://visitcount.itsvg.in)
+![Profile Views](https://visitcount.itsvg.in/api?id=chand6907&icon=5&color=6)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
+*Crafted with ❤️ and curiosity*
