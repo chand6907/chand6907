@@ -10,57 +10,11 @@ I'm a passionate Information Technology student at Gayatri Vidya Parishad Colleg
 
 ## My Stats ...
 
-<div style="display: flex; gap: 20px; background-color: #0D1117; padding: 20px; border-radius: 10px;">
-    <div style="flex: 1; background-color: #161B22; padding: 15px; border-radius: 10px; color: white;">
-        <h3 style="color: #58A6FF;">My Github Stats</h3>
-        Total Stars Earned: 28 <br>
-        Total Commits (2025): 203 <br>
-        Merged PRs Percentage: 78.57% <br>
-        Total PRs Reviewed: 0 <br>
-        Contributed to (last year): 12 <br><br>
-        <div style="display: flex; justify-content: center; align-items: center;">
-            <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Logo">
-        </div>
-    </div>
-    
-    <div style="flex: 1; background-color: #161B22; padding: 15px; border-radius: 10px; color: white;">
-        <h3 style="color: #58A6FF;">Most Used Languages</h3>
-        <div style="display: flex; align-items: center; justify-content: space-between;">
-            <div>
-                🔴 HTML: 67.95% <br>
-                🟠 Jupyter Notebook: 14.60% <br>
-                🟣 CSS: 6.56% <br>
-                🟡 JavaScript: 5.93% <br>
-                🔵 Python: 4.96%
-            </div>
-            <div>
-                <svg width="200" height="200" viewBox="0 0 200 200">
-                    <circle cx="100" cy="100" r="90" fill="none" stroke="#161B22" stroke-width="20"/>
-                    <circle cx="100" cy="100" r="90" fill="none" 
-                        stroke="#FF5A5F" stroke-width="20" 
-                        stroke-dasharray="565.48, 565.48" 
-                        stroke-dashoffset="0"/>
-                    <circle cx="100" cy="100" r="90" fill="none" 
-                        stroke="#FF7F50" stroke-width="20" 
-                        stroke-dasharray="247.39, 565.48" 
-                        stroke-dashoffset="-247.39"/>
-                    <circle cx="100" cy="100" r="90" fill="none" 
-                        stroke="#9932CC" stroke-width="20" 
-                        stroke-dasharray="111.31, 565.48" 
-                        stroke-dashoffset="-494.78"/>
-                    <circle cx="100" cy="100" r="90" fill="none" 
-                        stroke="#FFD700" stroke-width="20" 
-                        stroke-dasharray="100.59, 565.48" 
-                        stroke-dashoffset="-606.09"/>
-                    <circle cx="100" cy="100" r="90" fill="none" 
-                        stroke="#4169E1" stroke-width="20" 
-                        stroke-dasharray="84.01, 565.48" 
-                        stroke-dashoffset="-706.68"/>
-                </svg>
-            </div>
-        </div>
-    </div>
-</div>
+### My Github Stats
+| My Github Stats | Most Used Languages |
+|----------------|---------------------|
+| Total Stars Earned: 28 <br> Total Commits (2025): 203 <br> Merged PRs Percentage: 78.57% <br> Total PRs Reviewed: 0 <br> Contributed to (last year): 12 | 🔴 HTML: 67.95% <br> 🟠 Jupyter Notebook: 14.60% <br> 🟣 CSS: 6.56% <br> 🟡 JavaScript: 5.93% <br> 🔵 Python: 4.96% |
+| ![GitHub Logo](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github) | ![Languages Pie Chart](https://via.placeholder.com/350x350.png?text=Languages+Pie+Chart) |
 
 ## 🌐 My Stack ...
 
