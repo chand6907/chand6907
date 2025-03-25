@@ -8,26 +8,15 @@ I'm a passionate Information Technology student at Gayatri Vidya Parishad Colleg
 - 🌱 **Currently Exploring**: Deep Dive into Artificial Intelligence
 - 📚 **Academic Focus**: Information Technology at GVPCE(A)
 
-# My Stats ...
+## My Stats ...
 
-## My Github Stats
-| Metric | Value |
-|--------|-------|
-| Total Stars Earned: | 28 |
-| Total Commits (2025): | 203 |
-| Merged PRs Percentage: | 78.57% |
-| Total PRs Reviewed: | 0 |
-| Contributed to (last year): | 12 |
+### My Github Stats
+| My Github Stats | Most Used Languages |
+|----------------|---------------------|
+| Total Stars Earned: 28 <br> Total Commits (2025): 203 <br> Merged PRs Percentage: 78.57% <br> Total PRs Reviewed: 0 <br> Contributed to (last year): 12 | 🔴 HTML: 67.95% <br> 🟠 Jupyter Notebook: 14.60% <br> 🟣 CSS: 6.56% <br> 🟡 JavaScript: 5.93% <br> 🔵 Python: 4.96% |
+| ![GitHub Logo](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github) | ![Languages Pie Chart](https://via.placeholder.com/350x350.png?text=Languages+Pie+Chart) |
 
-## Most Used Languages
-![Languages Pie Chart](https://via.placeholder.com/350x350.png?text=Languages+Pie+Chart)
-- 🔴 HTML: 67.95%
-- 🟠 Jupyter Notebook: 14.60%
-- 🟣 CSS: 6.56%
-- 🟡 JavaScript: 5.93%
-- 🔵 Python: 4.96%
-
-## My Stack ...
+## 🌐 My Stack ...
 
 ### Languages
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -76,7 +65,6 @@ I'm a passionate Information Technology student at Gayatri Vidya Parishad Colleg
 
 ## 📬 Contact
 ✉️ **Email**: [spal84453@gmail.com](mailto:spal84453@gmail.com)
-
 
 ---
 ![Profile Views](https://visitcount.itsvg.in/api?id=chand6907&icon=5&color=6)
