@@ -51,9 +51,6 @@ I'm a passionate Information Technology student at Gayatri Vidya Parishad Colleg
 ### Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chand6907&theme=ocean_dark&hide_border=true)
 
-### Streak
-
-[](https://github-readme-streak-stats.herokuapp.com/?user=chand6907&theme=ocean_dark&hide_border=true)
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chand6907&theme=ocean_dark&layout=compact&hide_border=true)
