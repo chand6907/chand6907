@@ -14,7 +14,8 @@ I'm a passionate Information Technology student at Gayatri Vidya Parishad Colleg
 | My Github Stats | Most Used Languages |
 |----------------|---------------------|
 | Total Stars Earned: 28 <br> Total Commits (2025): 203 <br> Merged PRs Percentage: 78.57% <br> Total PRs Reviewed: 0 <br> Contributed to (last year): 12 | 🔴 HTML: 67.95% <br> 🟠 Jupyter Notebook: 14.60% <br> 🟣 CSS: 6.56% <br> 🟡 JavaScript: 5.93% <br> 🔵 Python: 4.96% |
-| ![GitHub Logo](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github) |![Languages Pie Chart](https://your-image-link.com/language-pie-chart.png)
+| ![GitHub Logo](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github) |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chand6907&layout=compact)
+
 
 
 ## 🌐 My Stack ...
