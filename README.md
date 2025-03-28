@@ -10,15 +10,17 @@ I'm a passionate Information Technology student at Gayatri Vidya Parishad Colleg
 
 ## My Stats ...
 
-## My Stats ...
-
 ## 📊 My Stats ...
 
-### My Github Stats
 <table>
   <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api?username=chand6907&show_icons=true&theme=dark" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
     <td>
-      <h3>My Github Stats</h3>
+      <h3>📌 My Github Stats</h3>
       <ul>
         <li>⭐ <b>Total Stars Earned:</b> 28</li>
         <li>📌 <b>Total Commits (2025):</b> 203</li>
@@ -28,25 +30,12 @@ I'm a passionate Information Technology student at Gayatri Vidya Parishad Colleg
       </ul>
     </td>
     <td>
-      <h3>Most Used Languages</h3>
-      <ul>
-        <li>🔴 <b>HTML:</b> 67.95%</li>
-        <li>🟠 <b>Jupyter Notebook:</b> 14.60%</li>
-        <li>🟣 <b>CSS:</b> 6.56%</li>
-        <li>🟡 <b>JavaScript:</b> 5.93%</li>
-        <li>🔵 <b>Python:</b> 4.96%</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub Logo">
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chand6907&layout=compact" alt="Top Languages">
+      <h3>🎨 Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chand6907&layout=compact&theme=dark" alt="Top Languages" />
     </td>
   </tr>
 </table>
+
 
 
 
