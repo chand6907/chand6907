@@ -10,31 +10,13 @@ I'm a passionate Information Technology student at Gayatri Vidya Parishad Colleg
 
 ## My Stats ...
 
-## 📊 My Stats ...
+## My Stats ...
 
-<table>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=chand6907&show_icons=true&theme=dark" alt="GitHub Stats" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>📌 My Github Stats</h3>
-      <ul>
-        <li>⭐ <b>Total Stars Earned:</b> 28</li>
-        <li>📌 <b>Total Commits (2025):</b> 203</li>
-        <li>✅ <b>Merged PRs Percentage:</b> 78.57%</li>
-        <li>📝 <b>Total PRs Reviewed:</b> 0</li>
-        <li>🌍 <b>Contributed to (last year):</b> 12</li>
-      </ul>
-    </td>
-    <td>
-      <h3>🎨 Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chand6907&layout=compact&theme=dark" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+### My Github Stats
+| My Github Stats | Most Used Languages |
+|----------------|---------------------|
+| Total Stars Earned: 28 <br> Total Commits (2025): 203 <br> Merged PRs Percentage: 78.57% <br> Total PRs Reviewed: 0 <br> Contributed to (last year): 12 | 🔴 HTML: 67.95% <br> 🟠 Jupyter Notebook: 14.60% <br> 🟣 CSS: 6.56% <br> 🟡 JavaScript: 5.93% <br> 🔵 Python: 4.96% |
+| ![GitHub Logo](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github) |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chand6907&layout=compact)
 
 
 
