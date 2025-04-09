@@ -53,9 +53,6 @@ I'm a passionate Information Technology student at Gayatri Vidya Parishad Colleg
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
-### Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chand6907&theme=ocean_dark&hide_border=true)
-
 ## 🏆 Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chand6907&theme=darkhub&no-frame=true&row=1&column=7)
 
