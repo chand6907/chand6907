@@ -8,14 +8,12 @@ I'm a passionate Information Technology student at Gayatri Vidya Parishad Colleg
 - 🌱 **Currently Exploring**: Deep Dive into Artificial Intelligence
 - 📚 **Academic Focus**: Information Technology at GVPCE(A)
 
-## My Github Stats ...
+## 📊 My GitHub Stats ...
 
-| My Github Stats | Most Used Languages |
-|----------------|---------------------|
-| Total Stars Earned: 28 <br> Total Commits (2025): 203 <br> Merged PRs Percentage: 78.57% <br> Total PRs Reviewed: 0 <br> Contributed to (last year): 12 | 🔴 HTML: 67.95% <br> 🟠 Jupyter Notebook: 14.60% <br> 🟣 CSS: 6.56% <br> 🟡 JavaScript: 5.93% <br> 🔵 Python: 4.96% |
-| ![GitHub Logo](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github) |![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chand6907&layout=compact)
-
-
+| GitHub Stats | Most Used Languages |
+|--------------|---------------------|
+| ![Chand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chand6907&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chand6907&layout=compact&theme=radical&hide_border=true) |
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chand6907&theme=radical&hide_border=true) | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chand6907&theme=radical&margin-w=10&no-frame=true) |
 
 
 
