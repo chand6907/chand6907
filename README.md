@@ -8,9 +8,8 @@ I'm a passionate Information Technology student at Gayatri Vidya Parishad Colleg
 - 🌱 **Currently Exploring**: Deep Dive into Artificial Intelligence
 - 📚 **Academic Focus**: Information Technology at GVPCE(A)
 
-## My Stats ...
+## My Github Stats ...
 
-### My Github Stats
 | My Github Stats | Most Used Languages |
 |----------------|---------------------|
 | Total Stars Earned: 28 <br> Total Commits (2025): 203 <br> Merged PRs Percentage: 78.57% <br> Total PRs Reviewed: 0 <br> Contributed to (last year): 12 | 🔴 HTML: 67.95% <br> 🟠 Jupyter Notebook: 14.60% <br> 🟣 CSS: 6.56% <br> 🟡 JavaScript: 5.93% <br> 🔵 Python: 4.96% |
