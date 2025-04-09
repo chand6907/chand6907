@@ -14,6 +14,9 @@ I'm a passionate Information Technology student at Gayatri Vidya Parishad Colleg
 |--------------|---------------------|
 | ![Chand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chand6907&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chand6907&layout=compact&theme=radical&hide_border=true) |
 
+### Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chand6907&theme=ocean_dark&hide_border=true)
+
 
 
 
@@ -52,10 +55,6 @@ I'm a passionate Information Technology student at Gayatri Vidya Parishad Colleg
 
 ### Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chand6907&theme=ocean_dark&hide_border=true)
-
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chand6907&theme=ocean_dark&layout=compact&hide_border=true)
 
 ## 🏆 Achievements
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chand6907&theme=darkhub&no-frame=true&row=1&column=7)
