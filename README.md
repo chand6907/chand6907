@@ -10,8 +10,6 @@ I'm a passionate Information Technology student at Gayatri Vidya Parishad Colleg
 
 ## My Stats ...
 
-## My Stats ...
-
 ### My Github Stats
 | My Github Stats | Most Used Languages |
 |----------------|---------------------|
