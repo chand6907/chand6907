@@ -13,7 +13,7 @@ I'm a passionate Information Technology student at Gayatri Vidya Parishad Colleg
 | GitHub Stats | Most Used Languages |
 |--------------|---------------------|
 | ![Chand's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chand6907&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chand6907&layout=compact&theme=radical&hide_border=true) |
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chand6907&theme=radical&hide_border=true) | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=chand6907&theme=radical&margin-w=10&no-frame=true) |
+
 
 
 
