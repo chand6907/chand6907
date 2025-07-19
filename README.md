@@ -1,125 +1,109 @@
-<div align="center">
-  
-# Hi 👋, I'm Chand
-### A passionate Information Technology Student & AI Enthusiast from India
-
-<img src="https://komarev.com/ghpvc/?username=chand6907&label=Profile%20views&color=0e75b6&style=flat" alt="chand6907" />
-
-</div>
+<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">, I'm Chand!</h2>
 
 ---
 
-## 🚀 About Me
+<h2>👤 About Me</h2>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🔭 I'm currently working on **AI & Machine Learning Projects**
-- 🌱 I'm currently learning **Deep Learning, Neural Networks, and Advanced AI Algorithms**
-- 👯 I'm looking to collaborate on **Open Source AI/ML Projects**
-- 🤝 I'm looking for help with **Advanced Machine Learning Techniques**
-- 💬 Ask me about **Python, AI/ML, Web Development, and Software Engineering**
-- 📫 How to reach me **spal84453@gmail.com**
-- ⚡ Fun fact **I think AI will revolutionize the way we solve problems!**
-
-<br clear="both" />
+<ul>
+  <li>💬 Ask me about <b>Python</b>, <b>AI/ML</b>, <b>Web Development</b>, and <b>Software Engineering</b>.</li>
+  <li>🌱 Currently learning <b>Deep Learning</b>, <b>Neural Networks</b>, and <b>Advanced AI Algorithms</b>.</li>
+  <li>🧠 Exploring <b>Machine Learning Techniques</b> and <b>AI Projects</b>.</li>
+  <li>📫 Reach me at: <a href="mailto:spal84453@gmail.com">spal84453@gmail.com</a>.</li>
+  <li>⚡ Fun Fact: I think AI will revolutionize the way we solve problems!</li>
+</ul>
 
 ---
 
-<div align="center">
-
-## 🌐 View My Portfolio
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://chand6907.github.io/portfolio/)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://chand6907.github.io/portfolio/)
-
-*Explore my projects, skills, and journey in technology*
-
-</div>
-
----
-
-## 💻 Skills & Technologies
-
-<div align="center">
-
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50"/>
+<h2>🧰 Skills & Technologies</h2>
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://docs.oracle.com/javase/tutorial/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
+  <a href="https://docs.python.org/3/tutorial/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/></a>
+  <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40" height="40"/></a>
+  <a href="https://git-scm.com/doc" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
 </p>
 
-### Web Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="50" height="50"/>
+---
+
+<h2>🌐 View My Portfolio</h2>
+
+<p align="center">
+  <a href="https://chand6907.github.io/portfolio/" target="_blank" style="margin: 0 20px;">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://chand6907.github.io/portfolio/" target="_blank" style="margin: 0 20px;">
+    <img src="https://img.shields.io/badge/Live%20Demo-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+  </a>
 </p>
 
-### Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
+---
+
+<h2>🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chand-%F0%9F%9A%80-4126b52aa/" target="blank" style="margin: 0 30px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="30"/>
+  </a>
+
+  <a href="https://instagram.com/prince_chand_123" target="blank" style="margin: 0 30px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="30"/>
+  </a>
+
+  <a href="https://x.com/pc6907" target="blank" style="margin: 0 30px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="30"/>
+  </a>
+
+  <a href="https://www.youtube.com/@princechand1612" target="blank" style="margin: 0 30px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="40" height="30"/>
+  </a>
+
+  <a href="mailto:spal84453@gmail.com" target="blank" style="margin: 0 30px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="35" height="30"/>
+  </a>
+
+  <a href="https://github.com/chand6907" target="blank" style="margin: 0 30px;">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40" height="40"/>
+  </a>
 </p>
 
-</div>
-
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=chand6907&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chand6907&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chand6907&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" width="50%"/>
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=chand6907&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🌟 Featured Projects
+## 📊✨ GitHub Stats Overview
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chand6907&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)](https://github.com/chand6907/portfolio)
+<!-- 🔍 Profile Summary Card -->
+<img
+  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chand6907&theme=radical"
+  height="180em"
+/>
 
-*More projects available on my [Portfolio](https://chand6907.github.io/portfolio/)*
+<!-- 📈 Contribution Activity Graph -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=chand6907&theme=redical"
+  width ="70%"
+/>
 
-</div>
+<!-- 🔥 Streak Stats Card -->
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=chand6907&theme=dark&hide_border=false"
+  alt="GitHub Streak"
+  width="50%"
+/>
 
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chand-%F0%9F%9A%80-4126b52aa/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/prince_chand_123)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/pc6907)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@princechand1612)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spal84453@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chand6907)
-
-### 💬 Let's collaborate and build something amazing together!
-
-</div>
-
----
-
-<div align="center">
-  
-### ⭐ Thanks for visiting my profile! ⭐
-*Don't forget to check out my repositories and give them a star if you find them interesting!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-
-</div>
+<!-- 📚 Top Languages Card -->
+<img 
+  width="325" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chand6907&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
+  alt="Top Languages" 
+/>
+<!---
+chand6907/chand6907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
