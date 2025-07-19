@@ -13,13 +13,11 @@
 - 📫 How to reach me **spal84453@gmail.com**
 - ⚡ Fun fact **I think AI will revolutionize the way we solve problems!**
 
-<div align="center">
+## Skills </>
 
-## 🛠️ Skills & Technologies
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50"/>
@@ -34,11 +32,9 @@
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-</div>
-
 ## GitHub Stats 📊
+
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chand6907&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%"/>
@@ -49,13 +45,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chand6907&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
 </div>
 
-<div align="center">
+## Connect with Me 🤝
 
-## 🤝 Connect with Me
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### Let's collaborate and build something amazing together! 🚀
+---
 
 <p align="center">
 <a href="https://www.linkedin.com/in/chand-%F0%9F%9A%80-4126b52aa/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" height="50"/></a>
@@ -65,9 +57,3 @@
 <a href="mailto:spal84453@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="50" height="50"/></a>
 <a href="https://github.com/chand6907" target="blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/></a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 💬 Feel free to reach out for collaborations or just a friendly chat!
-
-</div>
