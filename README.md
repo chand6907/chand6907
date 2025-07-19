@@ -1,33 +1,19 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
-
 <h1 align="center">Hi 👋, I'm Chand</h1>
 <h3 align="center">A passionate Information Technology Student & AI Enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chand6907&label=Profile%20views&color=0e75b6&style=flat" alt="chand6907" /> </p>
 
+## About Me
+
 - 🔭 I'm currently working on **AI & Machine Learning Projects**
-
 - 🌱 I'm currently learning **Deep Learning, Neural Networks, and Advanced AI Algorithms**
-
 - 👯 I'm looking to collaborate on **Open Source AI/ML Projects**
-
 - 🤝 I'm looking for help with **Advanced Machine Learning Techniques**
-
 - 💬 Ask me about **Python, AI/ML, Web Development, and Software Engineering**
-
 - 📫 How to reach me **spal84453@gmail.com**
-
 - ⚡ Fun fact **I think AI will revolutionize the way we solve problems!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/chand-%F0%9F%9A%80-4126b52aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chand" height="30" width="40" /></a>
-<a href="https://instagram.com/prince_chand_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince_chand_123" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@princechand1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="princechand1612" height="30" width="40" /></a>
-<a href="https://x.com/pc6907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pc6907" height="30" width="40" /></a>
-</p>
+## Skills
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -63,8 +49,19 @@
   <img src="https://img.shields.io/badge/-Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab"/>
 </p>
 
+## GitHub Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chand6907&show_icons=true&locale=en&layout=compact" alt="chand6907" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chand6907&show_icons=true&locale=en" alt="chand6907" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chand6907&" alt="chand6907" /></p>
+
+## Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/chand-%F0%9F%9A%80-4126b52aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chand" height="30" width="40" /></a>
+<a href="https://instagram.com/prince_chand_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince_chand_123" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@princechand1612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="princechand1612" height="30" width="40" /></a>
+<a href="https://x.com/pc6907" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pc6907" height="30" width="40" /></a>
+</p>
